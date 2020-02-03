@@ -1,31 +1,19 @@
 {
-  "posts": [
+  "register" : [
     {
-      "id": 1,
-      "title": "Post 1"
+      "username" : "Manu",
+      "password" : "postgres",
+      "email" : "jean.luc.e.verhan@gmail.com"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "username" : "Emmanuel",
+      "password" : "postgres",
+      "email" : "manmdyalw@gmail.com"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "username" : "Jean",
+      "password" : "postgres",
+      "email" : "man-mdyalw@gmail.com"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   ]
 }
